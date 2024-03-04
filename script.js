@@ -1,5 +1,5 @@
 /* 
-🌟 APP: Make Netflix
+🌟 APP: Make EdRic streamify
 
 Create a fetchMovies() function that will make a dynamic API call to what you need 👇
 ========================================
@@ -84,7 +84,7 @@ showMovies = (movies, dom_element, path_type) => {
   }
 }
 
-// ** Function that fetches Netflix Originals **
+// ** Function that fetches EdRic streamify Originals **
 function getOriginals() {
   var url =
     'https://api.themoviedb.org/3/discover/tv?api_key=19f84e11932abbc79e6d83f82d6d1045&with_networks=213'
